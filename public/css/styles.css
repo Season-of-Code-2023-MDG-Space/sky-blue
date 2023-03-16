@@ -1,0 +1,36 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.btn{
+  margin-right: 1rem;
+
+}
+
+#myP2{
+  color: red;
+  visibility: hidden;
+}
+
+.container{
+  width: 50%;
+}
+
+.logout{
+  text-align: right;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
